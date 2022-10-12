@@ -1,2 +1,3 @@
 # GitCourse
-##Project Notes :
+## Project Notes :
+---
